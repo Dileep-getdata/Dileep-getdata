@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Dileep-getdata
-- 👀 I’m interested in Traveling,Adventure
-- 🌱 I’m currently learning Full stack
-- 💞️ I’m looking to collaborate on PYTHON related
-- 📫 How to reach me @Dileep-getdata
+# 👋 Hi, I'm Dileep
 
-<!---
-Dileep-getdata/Dileep-getdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Node.js Developer with 4 years of expertise in building scalable backend applications and 1 year of experience as a Full Stack Developer. Passionate about creating efficient web solutions, learning new technologies, and collaborating on innovative projects.
+
+## 🚀 Skills & Interests
+- 💻 Backend Development with Node.js
+- 🌐 Full Stack Web Development
+- 🐍 Interested in Python-related projects
+- ✈️ Traveling & Adventure Enthusiast
+- 📚 Continuous Learning and Problem Solving
+
+## 🛠️ Tech Stack
+- Node.js | Express.js | React.js | Python 3.0
+- JavaScript | HTML | CSS
+- MongoDB | MySQL
+- Git | REST APIs | Docker
+
+## 📫 Connect With Me
+- GitHub: @Dileep-getdata
+- LinkedIn: https://www.linkedin.com/in/dileep-t-34704625b/
