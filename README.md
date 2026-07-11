@@ -8,18 +8,7 @@
 
 <!--Experienced Node.js Developer with 4 years of expertise in building scalable backend applications and 1 year of experience as a Full Stack Developer. Passionate about creating efficient web solutions, learning new technologies, and collaborating on innovative projects. -->
 
-## 🚀 Skills & Interests
-- 💻 Backend Development with Node.js
-- 🌐 Full Stack Web Development
-- 🐍 Interested in Python-related projects
-- ✈️ Traveling & Adventure Enthusiast
-- 📚 Continuous Learning and Problem Solving
 
-## 🛠️ Tech Stack
-- Node.js | Express.js | React.js | Python 3.0
-- JavaScript | HTML | CSS
-- MongoDB | MySQL
-- Git | REST APIs | Docker
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -35,22 +24,32 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 
+
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://dileep-getdata.github.io/Dileep_Portfolio/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Electric Vehicle Market Analysis for AtliQ Motors' India Launch** [Analyzed India's EV market to support AtliQ Motors' expansion strategy. Built data-driven insights on market trends, competition, and growth opportunities to help recommend an effective EV launch strategy in India.]  
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Building a strong foundation in statistics, predictive modeling, and real-world problem-solving through hands-on projects different platforms.]
+- [Exploring modern data engineering concepts with Databricks, Apache Spark, and cloud-based analytics]
 
 ## 🛠️ Technical Skillset
+## 🚀 Skills & Interests
+- 💻 Backend Development with Node.js
+- 🌐 Full Stack Web Development
+- 🐍 Interested in Python-related projects
+- ✈️ Traveling & Adventure Enthusiast
+- 📚 Continuous Learning and Problem Solving
 
+## 🛠️ Tech Stack
+- Node.js | Express.js | React.js | Python 3.0
+- JavaScript | HTML | CSS
+- MongoDB | MySQL
+- Git | REST APIs | Docker
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
@@ -59,13 +58,13 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+    <img src="https://img.shields.io/badge/MONGODB-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+
 </p>
 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-    <img src="https://img.shields.io/badge/SQL-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/MONGODB-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/Nodejs-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
